@@ -1,7 +1,8 @@
 
-![Screenshot 2025-05-27 224523](https://github.com/user-attachments/assets/5fcdb98c-e316-497c-aa56-3f08ec23ecad)
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/eacf6946-bb92-4d9f-baa7-431bc27fe941" />
 
-<img width="770" alt="image" src="https://github.com/user-attachments/assets/2ee9916e-c1c6-4488-8394-a1ee310d832f" />
+![Screenshot 2025-05-27 224810](https://github.com/user-attachments/assets/c940cf0f-ad08-40cb-8d56-762f4095c756)
+
 
 
 # Financial-dashboard
