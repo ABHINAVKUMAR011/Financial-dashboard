@@ -1,7 +1,6 @@
 
 <img width="679" alt="image" src="https://github.com/user-attachments/assets/eacf6946-bb92-4d9f-baa7-431bc27fe941" />
 
-![Screenshot 2025-05-27 224810](https://github.com/user-attachments/assets/c940cf0f-ad08-40cb-8d56-762f4095c756)
 
 
 
